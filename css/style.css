@@ -1,0 +1,36 @@
+  @import url("https://fonts.googleapis.com/css2?family=Gideon+Roman&family=Roboto+Mono");
+  
+  @import url("components/container.css");
+
+  @import url("components/avatar.css");
+
+  @import url("components/button.css");
+
+  @import url("components/banner.css");
+
+  @import url("components/card.css");
+
+
+  
+
+
+
+
+
+ body{
+  	font-family: 'gideon roman';
+  	font-size: 15px;
+  	margin: 0px;
+  }
+
+  h1, h2, h3{
+  	font-family: roboto mono;
+  	font-weight: bolder;
+  }
+
+
+ a {
+ 	text-decoration: none;
+
+ }
+
